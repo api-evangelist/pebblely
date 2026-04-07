@@ -10,9 +10,8 @@ access: 3rd-Party
 image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
 tags:
   - AI Photography
-  - Product Photos
   - Image Generation
-  - API
+  - Product Photos
 created: '2025-03-01'
 modified: '2026-03-16'
 url: >-
@@ -27,8 +26,8 @@ apis:
     humanURL: https://pebblely.com/
     tags:
       - AI Photography
-      - Product Photos
       - Image Generation
+      - Product Photos
     properties:
       - type: Documentation
         url: https://pebblely.com/docs
