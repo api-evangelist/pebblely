@@ -42,6 +42,44 @@ common:
     url: https://pebblely.com/docs
   - type: SignUp
     url: https://app.pebblely.com/signup
+  - type: Integrations
+    url: https://pebblely.com/integrations
+integrations:
+  - name: Pebblely
+  - name: The ShoeCo
+  - name: Eva Candles
+  - name: Homes of Rajasthan
+  - name: Enzo Chehab
+  - name: Eleman Beauty
+  - name: Facebook
+  - name: Instagram
+  - name: Pinterest
+  - name: Xiaohongshu
+  - name: Shopify
+  - name: Shopee
+  - name: Lazada
+  - name: Etsy
+  - name: ebay
+  - name: Walmart
+  - name: Amazon
+  - name: and more...
+  - name: AI product images with similar backgrounds
+  - name: A product floating in water
+  - name: 'Lynn''s profile photo'
+  - name: 'Roberta''s profile photo'
+  - name: 'Ewa''s profile photo'
+  - name: 'Sebastian''s profile photo'
+  - name: 'Christian''s profile photo'
+  - name: 'Athirah''s profile photo'
+  - name: 'Avish''s profile photo'
+  - name: 'Tony''s profile photo'
+  - name: 'Duc Anh''s profile photo'
+  - name: 'Robert''s profile photo'
+  - name: 'Sushank''s profile photo'
+  - name: 'Bernfried''s profile photo'
+  - name: 'Piyanat''s profile photo'
+  - name: 'Melissa''s profile photo'
+  - name: 'Adnan''s profile photo'
 maintainers:
   - FN: Kin Lane
     email: kin@apievangelist.com
