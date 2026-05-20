@@ -36,6 +36,8 @@ apis:
       - type: SignUp
         url: https://app.pebblely.com/signup
 common:
+  - type: LinkedIn
+    url: https://www.linkedin.com/company/pebblely
   - type: Website
     url: https://pebblely.com/
   - type: Documentation
