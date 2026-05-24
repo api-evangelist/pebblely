@@ -46,6 +46,8 @@ common:
     url: https://app.pebblely.com/signup
   - type: Integrations
     url: https://pebblely.com/integrations
+  - type: LLMsTxt
+    url: https://pebblely.com/llms.txt
 integrations:
   - name: Pebblely
   - name: The ShoeCo
