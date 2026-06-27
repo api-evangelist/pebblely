@@ -33,7 +33,7 @@ apis:
     properties:
       - type: Documentation
         url: https://pebblely.com/docs
-      - type: SignUp
+      - type: Signup
         url: https://app.pebblely.com/signup
 common:
   - type: LinkedIn
@@ -42,11 +42,11 @@ common:
     url: https://pebblely.com/
   - type: Documentation
     url: https://pebblely.com/docs
-  - type: SignUp
+  - type: Signup
     url: https://app.pebblely.com/signup
   - type: Integrations
     url: https://pebblely.com/integrations
-  - type: LLMsTxt
+  - type: LlmsText
     url: https://pebblely.com/llms.txt
 integrations:
   - name: Pebblely
