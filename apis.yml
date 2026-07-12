@@ -36,6 +36,8 @@ apis:
       - type: Signup
         url: https://app.pebblely.com/signup
 common:
+  - type: DomainSecurity
+    url: security/pebblely-domain-security.yml
   - type: LinkedIn
     url: https://www.linkedin.com/company/pebblely
   - type: Website
@@ -48,6 +50,8 @@ common:
     url: https://pebblely.com/integrations
   - type: LlmsText
     url: https://pebblely.com/llms.txt
+  - url: https://pebblely.com/blog
+    type: Blog
 integrations:
   - name: Pebblely
   - name: The ShoeCo
