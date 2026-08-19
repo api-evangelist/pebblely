@@ -29,7 +29,7 @@ created: '2025-03-01'
 modified: '2026-04-28'
 url: >-
   https://raw.githubusercontent.com/api-evangelist/pebblely/refs/heads/main/apis.yml
-specificationVersion: '0.19'
+specificationVersion: '0.23'
 apis:
   - aid: pebblely:pebblely
     name: Pebblely API
