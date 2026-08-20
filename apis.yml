@@ -21,6 +21,11 @@ position: Consumer
 access: 3rd-Party
 image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/pebblely.png
 tags:
+  - Artificial Intelligence
+  - AI Photography
+  - Image-Generation
+  - Product Photos
+tags_raw:
   - AI
   - AI Photography
   - Image Generation
@@ -39,6 +44,10 @@ apis:
       and bulk image generation capabilities.
     humanURL: https://pebblely.com/
     tags:
+      - AI Photography
+      - Image-Generation
+      - Product Photos
+    tags_raw:
       - AI Photography
       - Image Generation
       - Product Photos
