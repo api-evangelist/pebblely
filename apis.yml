@@ -34,13 +34,14 @@ image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/pebblely.p
 tags:
   - Artificial Intelligence
   - AI Photography
-  - Image-Generation
+  - Image Generation
   - Product Photos
 tags_raw:
   - AI
   - AI Photography
   - Image Generation
   - Product Photos
+  - Image-Generation
 created: '2025-03-01'
 modified: '2026-04-28'
 url: >-
@@ -56,12 +57,13 @@ apis:
     humanURL: https://pebblely.com/
     tags:
       - AI Photography
-      - Image-Generation
+      - Image Generation
       - Product Photos
     tags_raw:
       - AI Photography
       - Image Generation
       - Product Photos
+      - Image-Generation
     properties:
       - type: Documentation
         url: https://pebblely.com/docs
